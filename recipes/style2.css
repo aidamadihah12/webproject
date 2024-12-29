@@ -1,0 +1,239 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2.5em;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+    color: #555;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+input[type="text"], textarea, select, input[type="file"] {
+    padding: 12px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+    width: 100%;
+}
+textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+input[type="submit"] {
+    padding: 12px;
+    background-color: #019859;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.3s;
+}
+input[type="submit"]:hover {
+    background-color: #017c46;
+}
+table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #f4f4f9;
+}
+td img {
+    max-width: 100px;
+    border-radius: 6px;
+}
+.actions a, .actions input[type="submit"] {
+    background-color: #f39c12;
+    color: white;
+    padding: 8px 16px;
+    margin: 5px;
+    border-radius: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.actions input[type="submit"]:hover, .actions a:hover {
+    background-color: #e67e22;
+}
+.actions a {
+    background-color: #3498db;
+}
+.actions a:hover {
+    background-color: #2980b9;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #555;
+    font-size: 1rem;
+    padding: 10px 20px;
+    background-color: #019859;
+    color: white;
+    border-radius: 6px;
+    transition: background-color 0.3s;
+}
+.back-link:hover {
+    background-color: #017c46;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fc;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2.5em;
+}
+h2 {
+    color: #555;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+input[type="text"], input[type="email"], input[type="password"], select {
+    padding: 12px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+    width: 100%;
+}
+input[type="submit"] {
+    padding: 12px;
+    background-color: #019859;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.3s;
+}
+input[type="submit"]:hover {
+    background-color: #017c46;
+}
+table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #f4f4f9;
+}
+td {
+    color: #555;
+}
+.actions {
+    display: flex;
+    gap: 10px;
+}
+.actions a, .actions input[type="submit"] {
+    background-color: #f39c12;
+    color: white;
+    padding: 8px 16px;
+    margin: 5px;
+    border-radius: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.actions input[type="submit"]:hover, .actions a:hover {
+    background-color: #e67e22;
+}
+.actions a {
+    background-color: #3498db;
+}
+.actions a:hover {
+    background-color: #2980b9;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #555;
+    font-size: 1rem;
+    padding: 10px 20px;
+    background-color: #019859;
+    color: white;
+    border-radius: 6px;
+    transition: background-color 0.3s;
+}
+.back-link:hover {
+    background-color: #017c46;
+}
+.form-container {
+    background-color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+}
+.form-container input,
+.form-container select {
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
