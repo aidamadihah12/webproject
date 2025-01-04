@@ -124,13 +124,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_recipe'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Recipes</title>
+    <title>Art Of Cooking</title>
     <link rel="stylesheet" href="style2.css">
 </head>
 <body>
 
     <div class="container">
-        <h1>Manage Recipes</h1>
+        <h1>Art Of Cooking</h1>
 
         <h2><?php echo $edit_recipe ? "Edit Recipe" : "Add New Recipe"; ?></h2>
         <form method="POST" action="" enctype="multipart/form-data">

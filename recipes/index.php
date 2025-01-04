@@ -31,7 +31,7 @@ if ($recipe_name) {
 <body>
     <header>
         <div class="navbar">
-            <h1 class="logo">Cooking Recipes</h1>
+            <h1 class="logo">Art Of Cooking</h1>
             <nav>
                 <a href="index.php">Home</a>
                 <a href="about.html">About Us</a>

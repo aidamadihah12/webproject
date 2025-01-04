@@ -39,7 +39,7 @@ if (isset($_GET['name'])) {
     <!-- Navbar -->
     <header>
         <div class="navbar">
-            <h1>Cooking Recipes</h1>
+            <h1>ART OF COOKING</h1>
             <nav>
                 <a href="index.php">Home</a>
                 <a href="about.html">About Us</a>

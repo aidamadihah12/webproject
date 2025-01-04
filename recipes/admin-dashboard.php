@@ -53,7 +53,7 @@ $totalAdmins = $totalAdminsQuery->fetch_assoc()['total'];
 
 <div class="container">
 
-    <h1>COOKING RECIPES</h1>
+    <h1>Art Of Cooking</h1>
 
     <div class="stats">
         <div class="card">
